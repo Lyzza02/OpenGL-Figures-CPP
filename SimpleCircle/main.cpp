@@ -29,14 +29,6 @@ void display(){
 	glColor3ub(196, 221, 255);
 	circle(0.0f, 0.0f, .5f);
 	
-	//right
-	glColor3ub(247, 255, 147);
-	circle(0.4f, 0.4f, .2f);
-	
-	//left
-	glColor3ub(161, 227, 216);
-	circle(-0.4f, 0.4f, .2f);
-	
 	glFlush();
 }
 
