@@ -10,7 +10,7 @@ void circle(GLfloat x, GLfloat y, GLfloat radius);
 
 int main(int argc, char** argv){
    glutInit(&argc, argv);
-   glutCreateWindow("Simple Circle");
+   glutCreateWindow("Arrow Target Board");
    glutDisplayFunc(display);
    glutMainLoop();
 }
