@@ -6,8 +6,6 @@
 using namespace std;
 
 void display();
-void x_Axis();
-void y_Axis();
 void circle(GLfloat x, GLfloat y, GLfloat radius);
 
 int main(int argc, char** argv){
@@ -33,22 +31,6 @@ void display(){
 	circle(-0.45f, 0.45f, .35f);
 	
 	glFlush();
-}
-
-void x_Axis(){
-	glColor3ub(68, 106, 70);
-	glBegin(GL_LINES);
-	glVertex3f(-1.0, 0.0, 0.0);
-	glVertex3f(1.0, 0.0, 0.0);
-	glEnd();
-}
-
-void y_Axis(){
-	glColor3ub(0, 29, 110);
-	glBegin(GL_LINES);
-	glVertex3f(0.0, -1.0, 0.0);
-	glVertex3f(0.0, 1.0, 0.0);
-	glEnd();
 }
 
 void circle(GLfloat x, GLfloat y, GLfloat radius){
