@@ -14,7 +14,7 @@
     <tr>
     <td align="center"><h4>Tricolor Dango</h4></td>
     <td align="center"><h4>Cookie</h4></td>
-    <!-- <td align="center"><h4>Arrow Target Board</h4></td> -->
+    <td align="center"><h4>Building</h4></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/76563020/166617365-5aafe93d-28c3-44df-892c-1962a87d1cd1.png"></td>
