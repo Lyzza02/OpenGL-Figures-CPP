@@ -21,4 +21,11 @@
     <td><img src="https://user-images.githubusercontent.com/76563020/166927290-5f0d0151-d23a-4fe3-b40e-4f279aa61a61.png"></td>
     <td><img src="https://user-images.githubusercontent.com/76563020/166972840-a66ea17f-f728-4f17-ac3c-e9d06fff1506.png"></td>
   </tr>
+  </tr>
+    <tr>
+    <td align="center"><h4>Pan</h4></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/76563020/167102595-5a572148-3a11-4657-a101-e4bc3f2351e4.png"></td>
+  </tr>
 </table>
