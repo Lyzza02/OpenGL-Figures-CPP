@@ -1,4 +1,6 @@
 # OpenGL-Figures-CPP
+<p>OpenGL in C++ program. The IDE used is DEV-C.</p>
+<p>This is a repository for all works in OpenGL C++</p>
 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
