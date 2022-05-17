@@ -28,6 +28,6 @@
     <td align="center"><h4>Pan</h4></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/76563020/167102822-dfacf252-946f-4573-989e-3316f0b4e51b.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/76563020/168832826-543830ff-4cb2-4c6a-a4a0-2fb3a750a274.png"></td>
   </tr>
 </table>
