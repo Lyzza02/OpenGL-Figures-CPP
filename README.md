@@ -26,8 +26,10 @@
   </tr>
     <tr>
     <td align="center"><h4>Pan</h4></td>
+    <td align="center"><h4>Milktea</h4></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/76563020/168832826-543830ff-4cb2-4c6a-a4a0-2fb3a750a274.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/76563020/168933748-70afd17f-41dc-41e0-a099-9548388fe65a.png"></td>
   </tr>
 </table>
