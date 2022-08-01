@@ -39,6 +39,6 @@
     <td align="center"><h4>Old Fashioned</h4></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/76563020/182151111-7e5927dc-62a4-461f-a4da-05e973ee2634.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/76563020/182157494-a87bb5a0-0b99-42b5-8a39-f0e8b51cf835.png"></td>
   </tr>
 </table>
