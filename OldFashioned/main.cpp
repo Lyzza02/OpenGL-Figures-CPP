@@ -32,7 +32,7 @@ void display(){
 }
 
 void cup(){
-	glColor4ub(244,211,202,255);
+	glColor4ub(212,197,165,255);
 	glBegin(GL_TRIANGLE_STRIP);
 	glVertex2f(-.3f,-.6f);
 	glVertex2f(.3f,-.6f);
