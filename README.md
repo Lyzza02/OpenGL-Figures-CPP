@@ -37,8 +37,10 @@
   </tr>
   <tr>
     <td align="center"><h4>Old Fashioned</h4></td>
+    <td align="center"><h4>Milkshake Glass</h4></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/76563020/182157494-a87bb5a0-0b99-42b5-8a39-f0e8b51cf835.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/76563020/182342799-1c8be43d-6431-481f-90bb-3fe38f9128ef.png"></td>
   </tr>
 </table>
