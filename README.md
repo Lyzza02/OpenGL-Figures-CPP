@@ -36,11 +36,13 @@
     <td><img src="https://user-images.githubusercontent.com/76563020/169295894-715a5729-52d9-4bd4-8199-4c1388464396.png"></td>
   </tr>
   <tr>
-    <td align="center"><h4>Old Fashioned</h4></td>
+    <td align="center"><h4>Old Fashioned Glass</h4></td>
     <td align="center"><h4>Milkshake Glass</h4></td>
+    <td align="center"><h4>Elegant Martini Glass</h4></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/76563020/182157494-a87bb5a0-0b99-42b5-8a39-f0e8b51cf835.png"></td>
     <td><img src="https://user-images.githubusercontent.com/76563020/182342799-1c8be43d-6431-481f-90bb-3fe38f9128ef.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/76563020/183255858-6362125e-0f0d-4969-ade8-dc94935d8258.png"></td>
   </tr>
 </table>
