@@ -49,8 +49,10 @@
   
   <tr>
     <td align="center"><h4>Jar</h4></td>
+    <td align="center"><h4>Video Tape</h4></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/76563020/185175835-9ab4529c-4056-45f7-ab69-5f47423a942b.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/76563020/185182861-5d2946d7-4f95-4c13-b477-924136a00276.png"></td>
   </tr>
 </table>
